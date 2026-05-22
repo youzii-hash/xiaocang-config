@@ -527496,6 +527496,76 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29353,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "方位播报",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1779,
+            1702,
+            1911,
+            1937
+          ],
+          "side_effect_arg": [
+            4,
+            2,
+            3,
+            200,
+            200,
+            200
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态；为精灵指明了方向",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29354,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "定向宣传",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            911,
+            1836,
+            2315,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            4,
+            2,
+            150,
+            1,
+            50,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始吸取对手的体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -760122,6 +760192,91 @@
             3
           ],
           "type": 57,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38394,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "扩音",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            948,
+            964
+          ],
+          "side_effect_arg": [
+            0
+          ],
+          "type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38395,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "信息共振",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            1982,
+            1133,
+            1145
+          ],
+          "side_effect_arg": [
+            1,
+            100,
+            1
+          ],
+          "type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38396,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "迷途指反",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            547,
+            2204,
+            672
+          ],
+          "side_effect_arg": [
+            10,
+            3,
+            50,
+            50
+          ],
+          "type": 6,
           "info": "",
           "ordinary": 0
         },
