@@ -528331,6 +528331,76 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29378,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "高维干涉",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1932,
+            1510,
+            1300
+          ],
+          "side_effect_arg": [
+            4,
+            32,
+            3,
+            100,
+            1,
+            3,
+            50,
+            300,
+            2
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；开始限制对手的切换了；受到的攻击伤害减少了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29379,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "不竭灵感",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1001,
+            1067,
+            681,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            3,
+            2,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力了；攻击变得更凌厉了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -762081,6 +762151,101 @@
             2
           ],
           "type": 10,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38431,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "构造",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1978,
+            1876
+          ],
+          "side_effect_arg": [
+            100,
+            7,
+            3,
+            1
+          ],
+          "type": 16,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38432,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "变量清除",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            494,
+            2145,
+            1686,
+            1821
+          ],
+          "side_effect_arg": [
+            2,
+            50,
+            50,
+            2
+          ],
+          "type": 16,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38433,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "创·黄金纪元",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            1956,
+            2034,
+            1680,
+            1163
+          ],
+          "side_effect_arg": [
+            100,
+            7,
+            2,
+            50,
+            200,
+            20,
+            10,
+            40
+          ],
+          "type": 16,
           "info": "",
           "ordinary": 0
         },

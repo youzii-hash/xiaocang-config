@@ -102599,6 +102599,29 @@
 		</LearnableMoves>
 	</Monster>
 
+	<Monster ID="4915" DefName="西曼德妮" Type="16" GrowthType="4" HP="168" Atk="70" Def="110" SpAtk="144" SpDef="110" Spd="138" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3576" FormParam="0" CharacterAttrParam="4" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="12897" LearningLv="1"/>
+			<Move ID="21506" LearningLv="5"/>
+			<Move ID="12898" LearningLv="9"/>
+			<Move ID="12903" LearningLv="13"/>
+			<Move ID="21507" LearningLv="17"/>
+			<Move ID="38431" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="12904" LearningLv="25"/>
+			<Move ID="21508" LearningLv="29"/>
+			<Move ID="12900" LearningLv="33"/>
+			<Move ID="12905" LearningLv="37"/>
+			<Move ID="21509" LearningLv="41"/>
+			<Move ID="12901" LearningLv="45"/>
+			<Move ID="29378" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="12906" LearningLv="53"/>
+			<Move ID="29379" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38432" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38433" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
 
 
@@ -115968,6 +115991,8 @@
   <Monster ID="1400845" DefName="星冕纱华·艾欧丽娅" RealId=""/>
   <Monster ID="1400846" DefName="阿娅" RealId="3399"/>
   <Monster ID="1400847" DefName="艾丽娅" RealId="3403"/>
+  <Monster ID="1400848" DefName="古典艺术·西曼德妮" RealId=""/>
+  <Monster ID="1400849" DefName="偶像叛客·蕊沃尔" RealId=""/>
 
 
 
