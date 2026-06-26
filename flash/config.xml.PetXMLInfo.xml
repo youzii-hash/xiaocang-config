@@ -84260,6 +84260,9 @@
 <ExtraMoves>
 		  <Move ID="34699" LearningLv="76"/>
 </ExtraMoves>
+<SpExtraMoves>
+		  <Move ID="38437" LearningLv="77"/>
+</SpExtraMoves>
 </Monster>
 
 <Monster ID="4148" DefName="FAY" Type="31" GrowthType="4" HP="153" Atk="130" Def="98" SpAtk="70" SpDef="99" Spd="130" YieldingExp="70" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="2808" FormParam="0" CharacterAttrParam="0" GradeParam="2" AddSeParam="0" Resist="1">
@@ -102623,6 +102626,29 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4916" DefName="若兰" Type="87" GrowthType="4" HP="166" Atk="144" Def="109" SpAtk="70" SpDef="109" Spd="137" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3577" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10086" LearningLv="1"/>
+			<Move ID="20230" LearningLv="5"/>
+			<Move ID="10202" LearningLv="9"/>
+			<Move ID="21325" LearningLv="13"/>
+			<Move ID="20154" LearningLv="17"/>
+			<Move ID="38434" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="11838" LearningLv="25"/>
+			<Move ID="12169" LearningLv="29"/>
+			<Move ID="23119" LearningLv="33"/>
+			<Move ID="31550" LearningLv="37"/>
+			<Move ID="25883" LearningLv="41"/>
+			<Move ID="31551" LearningLv="45"/>
+			<Move ID="29380" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="31552" LearningLv="53"/>
+			<Move ID="29381" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38435" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38436" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
 
 
@@ -115993,6 +116019,8 @@
   <Monster ID="1400847" DefName="艾丽娅" RealId="3403"/>
   <Monster ID="1400848" DefName="古典艺术·西曼德妮" RealId=""/>
   <Monster ID="1400849" DefName="偶像叛客·蕊沃尔" RealId=""/>
+  <Monster ID="1400850" DefName="森语·月冕" RealId=""/>
+  <Monster ID="1400851" DefName="吉尼亚斯" RealId="147"/>
 
 
 

@@ -528401,6 +528401,70 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29380,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "风羽截断",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1235,
+            58
+          ],
+          "side_effect_arg": [
+            4,
+            3,
+            70,
+            1,
+            2
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；开始闪避对手的攻击了；攻击变得更凌厉了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29381,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "白茫之境",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            911,
+            1067,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -762246,6 +762310,136 @@
             40
           ],
           "type": 16,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38434,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "冷若冰兰",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1032,
+            2212
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            120,
+            15
+          ],
+          "type": 87,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38435,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "寒霜烈风",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            763,
+            907
+          ],
+          "side_effect_arg": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+          ],
+          "type": 87,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38436,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "冰结飞羽击",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            931,
+            593,
+            1171,
+            1844
+          ],
+          "side_effect_arg": [
+            2,
+            0,
+            0,
+            45,
+            1,
+            300,
+            30
+          ],
+          "type": 87,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38437,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "月·天囚影",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            2422,
+            781,
+            2507,
+            1885,
+            1040
+          ],
+          "side_effect_arg": [
+            2,
+            3,
+            100,
+            15,
+            100,
+            43,
+            1
+          ],
+          "type": 44,
           "info": "",
           "ordinary": 0
         },
