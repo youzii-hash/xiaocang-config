@@ -6680,54 +6680,63 @@
           "sp_move": [
             {
               "id": 10823,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10824,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10825,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20363,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20364,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -26194,24 +26203,28 @@
           "sp_move": [
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -30253,18 +30266,21 @@
           "sp_move": [
             {
               "id": 24319,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
             },
             {
               "id": 17912,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
             },
             {
               "id": 18006,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
@@ -68583,6 +68599,7 @@
           "sp_move": [
             {
               "id": 11673,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -68715,6 +68732,7 @@
           "sp_move": [
             {
               "id": 11673,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -68811,6 +68829,7 @@
           "sp_move": [
             {
               "id": 11679,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -68943,6 +68962,7 @@
           "sp_move": [
             {
               "id": 11679,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -80425,30 +80445,35 @@
           "sp_move": [
             {
               "id": 21890,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -86238,18 +86263,21 @@
           "sp_move": [
             {
               "id": 14635,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14636,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22504,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -86388,18 +86416,21 @@
           "sp_move": [
             {
               "id": 14696,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14697,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22539,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -86538,18 +86569,21 @@
           "sp_move": [
             {
               "id": 14663,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14664,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22520,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -88708,24 +88742,28 @@
           "sp_move": [
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -106595,6 +106633,7 @@
           "sp_move": [
             {
               "id": 22174,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -106733,6 +106772,7 @@
           "sp_move": [
             {
               "id": 22174,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -157921,12 +157961,14 @@
           "sp_move": [
             {
               "id": 13705,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 21948,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -158065,12 +158107,14 @@
           "sp_move": [
             {
               "id": 13705,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 21948,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -169686,12 +169730,14 @@
           "sp_move": [
             {
               "id": 14069,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22100,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -169830,12 +169876,14 @@
           "sp_move": [
             {
               "id": 14069,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22100,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -187871,30 +187919,35 @@
           "sp_move": [
             {
               "id": 14230,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14231,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14232,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22257,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22258,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -188830,12 +188883,14 @@
           "sp_move": [
             {
               "id": 14548,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22339,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -188974,12 +189029,14 @@
           "sp_move": [
             {
               "id": 14548,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22339,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -193396,30 +193453,35 @@
           "sp_move": [
             {
               "id": 14352,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14353,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14355,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22331,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22332,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -193528,30 +193590,35 @@
           "sp_move": [
             {
               "id": 14352,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14353,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14355,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22331,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22332,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -196968,24 +197035,28 @@
           "sp_move": [
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -198760,12 +198831,14 @@
           "sp_move": [
             {
               "id": 14470,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22403,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -205151,12 +205224,14 @@
           "sp_move": [
             {
               "id": 22489,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22490,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -205789,12 +205864,14 @@
           "sp_move": [
             {
               "id": 22587,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14976,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -205933,12 +206010,14 @@
           "sp_move": [
             {
               "id": 22587,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14976,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -212658,18 +212737,21 @@
           "sp_move": [
             {
               "id": 14856,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14857,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 14858,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -213355,6 +213437,7 @@
           "sp_move": [
             {
               "id": 14819,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -213588,6 +213671,7 @@
           "sp_move": [
             {
               "id": 14820,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -227725,18 +227809,21 @@
           "sp_move": [
             {
               "id": 22793,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22794,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15121,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -230534,18 +230621,21 @@
           "sp_move": [
             {
               "id": 15180,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22831,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15181,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -231511,18 +231601,21 @@
           "sp_move": [
             {
               "id": 15204,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22845,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15203,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -253434,30 +253527,35 @@
           "sp_move": [
             {
               "id": 21890,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -253560,12 +253658,14 @@
           "sp_move": [
             {
               "id": 23127,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23129,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -253692,12 +253792,14 @@
           "sp_move": [
             {
               "id": 23127,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23129,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -255635,24 +255737,28 @@
           "sp_move": [
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -256415,12 +256521,14 @@
           "sp_move": [
             {
               "id": 16967,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23840,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -260203,12 +260311,14 @@
           "sp_move": [
             {
               "id": 16965,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23839,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -262384,60 +262494,70 @@
           "sp_move": [
             {
               "id": 10823,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10824,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10825,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20363,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20364,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 17677,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -262576,30 +262696,35 @@
           "sp_move": [
             {
               "id": 15896,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23246,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15897,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23247,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15898,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -269204,12 +269329,14 @@
           "sp_move": [
             {
               "id": 23322,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 16029,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -269745,12 +269872,14 @@
           "sp_move": [
             {
               "id": 14470,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22403,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -281624,18 +281753,21 @@
           "sp_move": [
             {
               "id": 15180,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22831,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15181,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -282900,18 +283032,21 @@
           "sp_move": [
             {
               "id": 22793,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22794,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15121,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -283632,18 +283767,21 @@
           "sp_move": [
             {
               "id": 15204,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22845,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 15203,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -292496,12 +292634,14 @@
           "sp_move": [
             {
               "id": 23800,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 23771,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -311626,6 +311766,7 @@
           "sp_move": [
             {
               "id": 19002,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -317524,6 +317665,7 @@
           "sp_move": [
             {
               "id": 24409,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -331641,12 +331783,14 @@
           "sp_move": [
             {
               "id": 17908,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 17955,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -333855,12 +333999,14 @@
           "sp_move": [
             {
               "id": 17677,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 18126,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -341910,12 +342056,14 @@
           "sp_move": [
             {
               "id": 19784,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 24997,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -372610,6 +372758,7 @@
           "sp_move": [
             {
               "id": 30122,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -374617,18 +374766,21 @@
           "adv_move": [
             {
               "id": 28630,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 28631,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 37167,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
@@ -375541,6 +375693,7 @@
           "sp_move": [
             {
               "id": 30126,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -376782,6 +376935,7 @@
           "sp_move": [
             {
               "id": 30123,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -376832,18 +376986,21 @@
           "adv_move": [
             {
               "id": 37760,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28947,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 28948,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -378801,6 +378958,7 @@
           "sp_move": [
             {
               "id": 30127,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -379917,6 +380075,7 @@
           "sp_move": [
             {
               "id": 30124,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -380535,6 +380694,7 @@
           "sp_move": [
             {
               "id": 30128,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -382262,6 +382422,7 @@
           "sp_move": [
             {
               "id": 30125,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -383711,6 +383872,7 @@
           "sp_move": [
             {
               "id": 30129,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -384223,6 +384385,7 @@
           "sp_move": [
             {
               "id": 30130,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -388038,6 +388201,7 @@
           "sp_move": [
             {
               "id": 30185,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -410060,6 +410224,7 @@
           "sp_move": [
             {
               "id": 29075,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -411665,6 +411830,7 @@
           "adv_move": [
             {
               "id": 28253,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
@@ -414656,18 +414822,21 @@
           "adv_move": [
             {
               "id": 38407,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 29361,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 38408,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -419989,6 +420158,7 @@
           "sp_move": [
             {
               "id": 29283,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -420654,6 +420824,7 @@
           "sp_move": [
             {
               "id": 29284,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -427693,6 +427864,7 @@
           "sp_move": [
             {
               "id": 29330,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -430181,18 +430353,21 @@
           "adv_move": [
             {
               "id": 36404,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28217,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36405,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -430419,12 +430594,14 @@
           "adv_move": [
             {
               "id": 36573,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 36574,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -431576,18 +431753,21 @@
           "adv_move": [
             {
               "id": 36200,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28118,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36201,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -431939,18 +432119,21 @@
           "adv_move": [
             {
               "id": 38008,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 38009,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
             },
             {
               "id": 29102,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
@@ -433261,18 +433444,21 @@
           "adv_move": [
             {
               "id": 29142,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 3
             },
             {
               "id": 38074,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 1
             },
             {
               "id": 38075,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 4
@@ -434669,6 +434855,7 @@
           "sp_move": [
             {
               "id": 38064,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -436068,6 +436255,7 @@
           "sp_move": [
             {
               "id": 29016,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -437423,7 +437611,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 29392,
+              "learning_lv": 79,
+              "rec": 0,
+              "tag": 3,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -438226,12 +438422,14 @@
           "sp_move": [
             {
               "id": 32546,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38186,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -440497,6 +440695,7 @@
           "sp_move": [
             {
               "id": 37196,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -441618,12 +441817,14 @@
           "sp_move": [
             {
               "id": 32483,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 29338,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -442442,6 +442643,7 @@
           "sp_move": [
             {
               "id": 29076,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -443383,6 +443585,7 @@
           "sp_move": [
             {
               "id": 38119,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -444338,6 +444541,7 @@
           "sp_move": [
             {
               "id": 32624,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -447195,18 +447399,21 @@
           "adv_move": [
             {
               "id": 28646,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 37193,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 37194,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -448729,18 +448936,21 @@
           "adv_move": [
             {
               "id": 37461,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 37462,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
             },
             {
               "id": 37463,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -450037,6 +450247,7 @@
           "sp_move": [
             {
               "id": 29018,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -455619,6 +455830,7 @@
           "sp_move": [
             {
               "id": 28684,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 2,
               "tag2": 0
@@ -455983,18 +456195,21 @@
           "adv_move": [
             {
               "id": 36535,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28278,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 36536,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -458330,6 +458545,7 @@
           "sp_move": [
             {
               "id": 29213,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -458527,6 +458743,7 @@
           "sp_move": [
             {
               "id": 38232,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -460595,12 +460812,14 @@
           "adv_move": [
             {
               "id": 36291,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28161,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
@@ -460750,18 +460969,21 @@
           "adv_move": [
             {
               "id": 28496,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 28497,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36943,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -461662,18 +461884,21 @@
           "adv_move": [
             {
               "id": 29299,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38317,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38318,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -462468,18 +462693,21 @@
           "adv_move": [
             {
               "id": 28455,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 28456,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36878,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
@@ -463688,18 +463916,21 @@
           "adv_move": [
             {
               "id": 28380,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 28381,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36744,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -464608,18 +464839,21 @@
           "adv_move": [
             {
               "id": 37691,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 37692,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 28910,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -466224,6 +466458,7 @@
           "sp_move": [
             {
               "id": 29211,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -466274,18 +466509,21 @@
           "adv_move": [
             {
               "id": 28972,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 37806,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 37807,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -466611,6 +466849,7 @@
           "sp_move": [
             {
               "id": 29246,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -469922,6 +470161,7 @@
           "sp_move": [
             {
               "id": 29020,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -470327,12 +470567,14 @@
           "adv_move": [
             {
               "id": 29023,
+              "learning_lv": 86,
               "rec": 1,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 29024,
+              "learning_lv": 87,
               "rec": 1,
               "tag": 3,
               "tag2": 0
@@ -473400,6 +473642,7 @@
           "sp_move": [
             {
               "id": 28868,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 0,
               "tag2": 0
@@ -476018,6 +476261,7 @@
           "sp_move": [
             {
               "id": 37873,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -476647,6 +476891,7 @@
           "sp_move": [
             {
               "id": 37418,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -477648,6 +477893,7 @@
           "sp_move": [
             {
               "id": 29133,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -477939,6 +478185,7 @@
           "sp_move": [
             {
               "id": 29134,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -478088,6 +478335,7 @@
           "sp_move": [
             {
               "id": 37025,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -478693,6 +478941,7 @@
           "sp_move": [
             {
               "id": 29013,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -479150,6 +479399,7 @@
           "sp_move": [
             {
               "id": 38063,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -480235,6 +480485,7 @@
           "sp_move": [
             {
               "id": 38187,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -482860,6 +483111,7 @@
           "sp_move": [
             {
               "id": 29011,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 3,
               "tag2": 0
@@ -482868,7 +483120,18 @@
         },
         "move": null,
         "show_extra_moves": null,
-        "sp_extra_moves": null,
+        "sp_extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38455,
+              "learning_lv": 81,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
         "atk": 135,
         "character_attr_param": 0,
         "combo": 0,
@@ -485727,6 +485990,7 @@
           "sp_move": [
             {
               "id": 29170,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -485876,6 +486140,7 @@
           "sp_move": [
             {
               "id": 38233,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -486369,6 +486634,7 @@
           "sp_move": [
             {
               "id": 29329,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -487648,6 +487914,7 @@
           "sp_move": [
             {
               "id": 29169,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 2,
               "tag2": 0
@@ -488223,6 +488490,7 @@
           "sp_move": [
             {
               "id": 38117,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -488568,18 +488836,21 @@
           "adv_move": [
             {
               "id": 37809,
+              "learning_lv": 63,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 28973,
+              "learning_lv": 64,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 37810,
+              "learning_lv": 65,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -490123,6 +490394,7 @@
           "sp_move": [
             {
               "id": 37872,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -495422,6 +495694,7 @@
           "sp_move": [
             {
               "id": 29093,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -496608,6 +496881,7 @@
           "sp_move": [
             {
               "id": 29135,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -496658,18 +496932,21 @@
           "adv_move": [
             {
               "id": 28668,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 2,
               "tag2": 0
             },
             {
               "id": 37239,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 1,
               "tag2": 0
             },
             {
               "id": 37240,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -498815,12 +499092,14 @@
           "adv_move": [
             {
               "id": 28341,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 3,
               "tag2": 0
             },
             {
               "id": 36669,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 4,
               "tag2": 0
@@ -500496,6 +500775,7 @@
           "sp_move": [
             {
               "id": 29017,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -501665,6 +501945,7 @@
           "sp_move": [
             {
               "id": 38356,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -502924,7 +503205,18 @@
         },
         "move": null,
         "show_extra_moves": null,
-        "sp_extra_moves": null,
+        "sp_extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38456,
+              "learning_lv": 81,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
         "atk": 142,
         "character_attr_param": 0,
         "combo": 0,
@@ -503510,6 +503802,7 @@
           "sp_move": [
             {
               "id": 29193,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -505839,6 +506132,7 @@
           "sp_move": [
             {
               "id": 29212,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -506190,6 +506484,7 @@
           "sp_move": [
             {
               "id": 29245,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -507098,6 +507393,7 @@
           "sp_move": [
             {
               "id": 34983,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -509635,6 +509931,7 @@
           "sp_move": [
             {
               "id": 38294,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -510524,6 +510821,7 @@
           "sp_move": [
             {
               "id": 29337,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -511271,12 +511569,14 @@
           "sp_move": [
             {
               "id": 34880,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 27488,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -514613,6 +514913,7 @@
           "sp_move": [
             {
               "id": 28759,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -515035,6 +515336,7 @@
           "sp_move": [
             {
               "id": 28758,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -516049,6 +516351,7 @@
           "sp_move": [
             {
               "id": 37990,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -521397,6 +521700,7 @@
           "sp_move": [
             {
               "id": 37989,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -522570,24 +522874,28 @@
           "sp_move": [
             {
               "id": 34528,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 34529,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 34530,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 34531,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -522764,7 +523072,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 38453,
+              "learning_lv": 0,
+              "rec": 1,
+              "tag": 1,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -524296,18 +524612,21 @@
           "adv_move": [
             {
               "id": 38247,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 29253,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38248,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -527619,6 +527938,7 @@
           "sp_move": [
             {
               "id": 37963,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -528034,24 +528354,28 @@
           "sp_move": [
             {
               "id": 27402,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 27403,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 27404,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 27405,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -533108,6 +533432,7 @@
           "sp_move": [
             {
               "id": 29019,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -533300,24 +533625,28 @@
           "adv_move": [
             {
               "id": 29187,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 29188,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38147,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 38148,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -533910,6 +534239,7 @@
           "sp_move": [
             {
               "id": 37621,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -537977,7 +538307,15 @@
               "tag": 4
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 38454,
+              "learning_lv": 0,
+              "rec": 1,
+              "tag": 1,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -538395,6 +538733,7 @@
           "sp_move": [
             {
               "id": 37620,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -541343,6 +541682,7 @@
           "sp_move": [
             {
               "id": 29012,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 2,
               "tag2": 0
@@ -545014,6 +545354,7 @@
           "sp_move": [
             {
               "id": 37296,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -558252,6 +558593,7 @@
           "sp_move": [
             {
               "id": 38118,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -559714,6 +560056,7 @@
           "sp_move": [
             {
               "id": 37340,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -571656,6 +571999,7 @@
           "sp_move": [
             {
               "id": 37275,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -577235,6 +577579,7 @@
           "sp_move": [
             {
               "id": 37022,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -580472,6 +580817,7 @@
           "sp_move": [
             {
               "id": 37339,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 1,
               "tag2": 0
@@ -580889,6 +581235,7 @@
           "sp_move": [
             {
               "id": 37024,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 4,
               "tag2": 0
@@ -588622,6 +588969,7 @@
           "sp_move": [
             {
               "id": 28869,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 3,
               "tag2": 0
@@ -591382,6 +591730,7 @@
           "sp_move": [
             {
               "id": 28782,
+              "learning_lv": 75,
               "rec": 0,
               "tag": 3,
               "tag2": 0
@@ -596599,6 +596948,7 @@
           "sp_move": [
             {
               "id": 28867,
+              "learning_lv": 0,
               "rec": 1,
               "tag": 3,
               "tag2": 0
@@ -599028,6 +599378,7 @@
           "sp_move": [
             {
               "id": 29092,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -608115,18 +608466,21 @@
           "sp_move": [
             {
               "id": 28989,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 37834,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 37835,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -621435,6 +621789,7 @@
           "sp_move": [
             {
               "id": 38046,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -621512,6 +621867,7 @@
           "sp_move": [
             {
               "id": 38047,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -621589,6 +621945,7 @@
           "sp_move": [
             {
               "id": 38048,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -621666,6 +622023,7 @@
           "sp_move": [
             {
               "id": 38049,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -637004,6 +637362,432 @@
         "vip": 0
       },
       {
+        "def_name": "卡鲁维德",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38446,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10086,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20030,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33072,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33073,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20088,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38444,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 33075,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 26625,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33076,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33077,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 26626,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33078,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29386,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 33079,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29387,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38445,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 140,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 114,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 168,
+        "id": 4919,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3580,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 114,
+        "spd": 134,
+        "support": 0,
+        "transform": 0,
+        "type": 226,
+        "vip": 0
+      },
+      {
+        "def_name": "弗勒克斯",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38449,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 11019,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20530,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10075,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11053,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20058,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38447,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 11271,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22761,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 13328,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 34870,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 27483,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 34871,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29388,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 34872,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29389,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38448,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 107,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 167,
+        "id": 4920,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3581,
+        "real_id": 0,
+        "sp_atk": 141,
+        "sp_def": 107,
+        "spd": 133,
+        "support": 0,
+        "transform": 0,
+        "type": 86,
+        "vip": 0
+      },
+      {
+        "def_name": "天堂极龙兽",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38452,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10047,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22660,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14897,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22661,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14935,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38450,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 22662,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14898,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22637,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 35390,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 27730,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 35391,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29390,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 35392,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29391,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38451,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 110,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 100,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 190,
+        "id": 4921,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3582,
+        "real_id": 0,
+        "sp_atk": 110,
+        "sp_def": 100,
+        "spd": 100,
+        "support": 0,
+        "transform": 0,
+        "type": 52,
+        "vip": 0
+      },
+      {
         "def_name": "圣灵谱尼",
         "extra_moves": {
           "adv_move": [],
@@ -638333,54 +639117,63 @@
           "sp_move": [
             {
               "id": 10823,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10824,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 10825,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20363,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 20364,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13582,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13583,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13584,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 13585,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -657953,12 +658746,14 @@
           "sp_move": [
             {
               "id": 14470,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 22403,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -674188,6 +674983,7 @@
           "sp_move": [
             {
               "id": 24319,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -675857,12 +676653,14 @@
           "sp_move": [
             {
               "id": 24319,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 17912,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -676001,12 +676799,14 @@
           "sp_move": [
             {
               "id": 24319,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
             },
             {
               "id": 17912,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 0,
               "tag2": 0
@@ -711280,18 +712080,21 @@
           "sp_move": [
             {
               "id": 24319,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
             },
             {
               "id": 17912,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
             },
             {
               "id": 18006,
+              "learning_lv": 0,
               "rec": 0,
               "tag": 7,
               "tag2": 0
@@ -738963,6 +739766,66 @@
         "is_ride_pet": 0,
         "pet_class": 0,
         "real_id": 147,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "风起流沙·阿莱克托",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400852,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "珍珠泡泡·星礼",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400853,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
         "sp_atk": 0,
         "sp_def": 0,
         "spd": 0,
